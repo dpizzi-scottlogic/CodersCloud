@@ -8,7 +8,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CoderCloud.Worker
+namespace CodersCloud.Worker
 {
     public partial class BuildAgent : ServiceBase
     {

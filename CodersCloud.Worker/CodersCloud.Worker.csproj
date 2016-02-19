@@ -7,8 +7,8 @@
     <ProjectGuid>{9479F89E-B4BD-4D42-B8FC-D749F5A7C6DC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CoderCloud.Worker</RootNamespace>
-    <AssemblyName>CoderCloud.Worker</AssemblyName>
+    <RootNamespace>CodersCloud.Worker</RootNamespace>
+    <AssemblyName>CodersCloud.Worker</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

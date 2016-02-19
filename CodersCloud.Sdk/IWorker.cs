@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CoderCloud.Sdk
+namespace CodersCloud.Sdk
 {
-    interface IStreamConsumer
+    interface IWorker
     {
     }
 }

@@ -5,7 +5,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CoderCloud.Worker
+namespace CodersCloud.Worker
 {
     static class Program
     {

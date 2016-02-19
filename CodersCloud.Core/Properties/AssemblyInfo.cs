@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CoderCloud.Worker")]
+[assembly: AssemblyTitle("CodersCloud.Core")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CoderCloud.Worker")]
+[assembly: AssemblyProduct("CodersCloud.Core")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9479f89e-b4bd-4d42-b8fc-d749f5a7c6dc")]
+[assembly: Guid("1786e398-243c-4936-b073-5e12b3d0d626")]
 
 // Version information for an assembly consists of the following four values:
 //

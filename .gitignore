@@ -1,6 +1,6 @@
 packages/
-CoderCloud.Sdk/obj/
-CoderCloud.Worker/bin/
-CoderCloud.Worker/obj/
-CoderCloud.Core/obj/
+CodersCloud.Sdk/obj/
+CodersCloud.Worker/bin/
+CodersCloud.Worker/obj/
+CodersCloud.Core/obj/
 .vs/

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CoderCloud.Core
+namespace CodersCloud.Core
 {
     public class Job
     {

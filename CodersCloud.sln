@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoderCloud.Worker", "CoderCloud.Worker\CoderCloud.Worker.csproj", "{9479F89E-B4BD-4D42-B8FC-D749F5A7C6DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodersCloud.Worker", "CodersCloud.Worker\CodersCloud.Worker.csproj", "{9479F89E-B4BD-4D42-B8FC-D749F5A7C6DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoderCloud.Sdk", "CoderCloud.Sdk\CoderCloud.Sdk.csproj", "{F1CA17EA-9E05-40BB-BA0A-EA2DF1C3D877}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodersCloud.Sdk", "CodersCloud.Sdk\CodersCloud.Sdk.csproj", "{F1CA17EA-9E05-40BB-BA0A-EA2DF1C3D877}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoderCloud.Core", "CoderCloud.Core\CoderCloud.Core.csproj", "{1786E398-243C-4936-B073-5E12B3D0D626}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodersCloud.Core", "CodersCloud.Core\CodersCloud.Core.csproj", "{1786E398-243C-4936-B073-5E12B3D0D626}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

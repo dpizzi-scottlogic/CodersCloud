@@ -1,6 +1,6 @@
-﻿namespace CoderCloud.Worker
+﻿namespace CodersCloud.Worker
 {
-    partial class BuildAgent
+    partial class JobManager
     {
         /// <summary> 
         /// Required designer variable.

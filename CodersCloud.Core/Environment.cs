@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CoderCloud.Sdk
+namespace CodersCloud.Core
 {
-    interface IWorker
+    class Environment
     {
     }
 }

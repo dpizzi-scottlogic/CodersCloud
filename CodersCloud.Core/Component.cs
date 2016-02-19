@@ -5,17 +5,17 @@ using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CoderCloud.Core
+namespace CodersCloud.Core
 {
     [DataContract]
-    class Project
+    class Component
     {
         [DataMember(Name = "name")]
         private string _name = "";
-        [DataMember(Name = "creation")]
-        private DateTime _creation = DateTime.Now;
 
-        [DataMember(Name = "namespaces")]
-        private List<Namespace> _namespaces = new List<Namespace>();
+        [DataMember(Name = "interfaces")]
+        private List<string> _interfaces = new List<string>();
+        [DataMember(Name = "code")]
+        private string _code = "";
     }
 }
