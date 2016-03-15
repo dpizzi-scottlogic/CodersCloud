@@ -1,6 +1,31 @@
 packages/
 CodersCloud.Sdk/obj/
+CodersCloud.Sdk/bin/
 CodersCloud.Worker/bin/
 CodersCloud.Worker/obj/
 CodersCloud.Core/obj/
+CodersCloud.Core/bin/
 .vs/
+
+
+# Web Data
+
+CodersCloud.Data/bin/
+CodersCloud.Data/obj/
+
+
+# Web Project
+
+CodersCloud.Web/bin/
+CodersCloud.Web/obj/
+Web.Debug.config
+Web.Release.config
+*.pubxml
+*.pubxml.user
+
+
+# Webjob
+
+CodersCloud.WebJob/bin/
+CodersCloud.WebJob/obj/
+webjob-publish-settings.json
